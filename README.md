@@ -28,10 +28,10 @@
 
 13. Please rate the following measures in reducing road crashes. [Road safety education and awareness campaigns] to Meaures_Rate
 
-14. Please rate the following measures in reducing road crashes. [Engineering improvements (road construction, signage)] to
+14. Please rate the following measures in reducing road crashes. [Engineering improvements (road construction, signage)] to Engineering_Improvements_Rating
 
-15. 5.2 Please rate the following measures in reducing road crashes. [Legislative changes and enforcement of road safety laws] to
+15. 5.2 Please rate the following measures in reducing road crashes. [Legislative changes and enforcement of road safety laws] to Legislative_Changes_Rating'
 
-16. How effective do you think the current road safety initiatives and regulations are? to
+16. How effective do you think the current road safety initiatives and regulations are? to Current_Road_Safety_Initiatives_Effectiveness
 
 17. Is there anything else you would like to share /emphasize regarding road accidents in Kampala? to 'Comment'
